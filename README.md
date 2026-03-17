@@ -1,7 +1,9 @@
-#Auth Service - Spring Boot & JWT#
+# Auth Service - Spring Boot & JWT
+
 This repository contains the Authentication Service component for the Complete Java Full Stack: AWS, Spring Boot, Microservices project. This service handles user authentication and authorization using Spring Security and JWT (JSON Web Tokens).
 
 🚀 Project Overview
+
 This service provides secure endpoints for users to register, log in, and manage their authentication state. It is designed to be part of a microservices architecture.
 
 Key Features
@@ -11,12 +13,7 @@ Key Features
 4.  Authorization: Role-based access control.
 5.  Local DB: Uses JSON files and MySQL to simulate a database for local development.
 
-🛠️ Technology Stack
-Java 17+
-Spring Boot 3.x
-Spring Security
-JWT (JSON Web Tokens)
-JSON (for local data storage)
+🛠️ Technology Stack: Java 17+, Spring Boot 3.x, Spring Security, JWT (JSON Web Tokens), JSON, MySQL (local database)
 
 📋 Project Structure
 1. Controller: Handles incoming requests for auth.
