@@ -1,4 +1,4 @@
-Auth Service - Spring Boot & JWT
+##Auth Service - Spring Boot & JWT##
 This repository contains the Authentication Service component for the Complete Java Full Stack: AWS, Spring Boot, Microservices project. This service handles user authentication and authorization using Spring Security and JWT (JSON Web Tokens).
 
 🚀 Project Overview
