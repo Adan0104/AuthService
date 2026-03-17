@@ -5,11 +5,11 @@ This repository contains the Authentication Service component for the Complete J
 This service provides secure endpoints for users to register, log in, and manage their authentication state. It is designed to be part of a microservices architecture.
 
 Key Features
-User Registration: Secure password handling.
-JWT Authentication: Issuing access tokens for API security.
-Refresh Token Mechanism: Long-lived sessions with security.
-Authorization: Role-based access control.
-Local DB: Uses JSON files and MySQL to simulate a database for local development.
+1. User Registration: Secure password handling.
+2.  JWT Authentication: Issuing access tokens for API security.
+3.  Refresh Token Mechanism: Long-lived sessions with security.
+4.  Authorization: Role-based access control.
+5.  Local DB: Uses JSON files and MySQL to simulate a database for local development.
 
 🛠️ Technology Stack
 Java 17+
@@ -19,9 +19,9 @@ JWT (JSON Web Tokens)
 JSON (for local data storage)
 
 📋 Project Structure
-Controller: Handles incoming requests for auth.
-Service: Business logic for managing users and tokens.
-Local DB: Simulations of data storage using JSON files.
+1. Controller: Handles incoming requests for auth.
+2. Service: Business logic for managing users and tokens.
+3. Local DB: Simulations of data storage using JSON files.
 
 ⚙️ Getting Started
 To run this service locally:
